@@ -6,3 +6,6 @@ MyMean <- function(x) {
   xbar <- sum(x) /n
   return(xbar)
 }
+myfn<-function(x) {
+  retrun(smu(x))
+}
